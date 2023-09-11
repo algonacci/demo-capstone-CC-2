@@ -1,0 +1,16 @@
+{
+    "artist": [
+        {
+            "id": 1,
+            "name": "Justin Bieber",
+            "umur": 29,
+            "Tinggi": "1,75"
+        },
+        {
+            "id": 2,
+            "name": "Soni Wakwaw",
+            "umur": 90,
+            "Tinggi": "2,75"
+        }
+    ]
+}
